@@ -1,1 +1,9 @@
 My first commit!
+
+Important Commands:
+
+- git status
+- git add NameOfFile
+- git commit -m"type message here"
+- git push
+- git pull
